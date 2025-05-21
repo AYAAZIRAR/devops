@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736714403986",
+    "project_id": "azirarquiz",
+    "storage_bucket": "azirarquiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736714403986:android:e58268945f0c44a100364b",
+        "android_client_info": {
+          "package_name": "com.example.azirarquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4eQBQVKv_ENDBQsi1432ByXjWAHNZ8Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
